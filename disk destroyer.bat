@@ -1,3 +1,4 @@
+@echo off
 Diskpart
 Select 1
 Inactive
