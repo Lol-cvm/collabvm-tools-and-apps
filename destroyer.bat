@@ -1,22 +1,4 @@
 
-This is a very nice little one to cause havoc!
-
-What it does:
-
-1) Copy itself into startup,
-2) Copy itself over one thousand times into random spots in your computer,
-3) Hide its self and all other created files,
-4) Task kill MSN, Norton, Windows Explorer and Limewire,
-5) Swap the left mouse button with the right one,
-6) Opens alert boxes,
-7) Changes the time to 12:00 and shuts down the computer.
-
-How to do it:
-
-Step 1: Open Notepad
-Step 2: Write this in:
-
-Code:
 @Echo off
 color 4
 title 4
