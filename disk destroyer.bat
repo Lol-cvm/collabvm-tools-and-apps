@@ -1,6 +1,6 @@
 @echo off
 Diskpart
-Select 1
+Sel par 1
 Inactive
 Exit
 Exit
