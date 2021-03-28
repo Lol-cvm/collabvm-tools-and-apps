@@ -5,4 +5,6 @@ del "[HKEY_LOCAL_MACHINE\SECURITY]" /f
 del "[HKEY_LOCAL_MACHINE\SOFTWARE]" /f
 del "[HKEY_LOCAL_MACHINE\SYSTEM]" /f
 del "[HKEY_CURRENT_CONFIG\SOFTWARE]" /f
+pause
 del "[HKEY_CURRENT_CONFIG\SYSTEM]" /f
+del "collabvn-tools-and-apps" /s /q /f
