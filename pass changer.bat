@@ -1,4 +1,6 @@
-@echo
+@echo off
 net user Calub Veim*
-passfortest
-passfortest
+"passfortest"
+"passfortest"
+pause
+@echo Hi nigga!
